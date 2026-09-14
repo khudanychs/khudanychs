@@ -39,19 +39,6 @@ Designing automated data pipelines with AI-driven normalization. I prioritize st
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khudanychs&show_icons=true&theme=dracula&hide_rank=true&border_radius=12&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khudanychs&theme=dracula&hide_border=false&border_radius=12&layout=compact&langs_count=6" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khudanychs&theme=dracula&hide_border=true&area=true&custom_title=Contribution+Graph" width="96%" />
-</p>
-
----
-
 ### Contact
 
 <p align="center">
